@@ -1,4 +1,4 @@
-﻿html {
+html {
 	font-size:625%
 }
 body {
@@ -550,13 +550,13 @@ font-size:.3rem;
 	font-weight:700
 }
 .m-footer .home {
-background:url(../images/home2.png) center .13rem/.48rem .42rem no-repeat
+background:url(../images/home.png) center .13rem/.48rem .42rem no-repeat
 }
 .m-footer .tel {
 background:url(../images/icontel.svg) center .13rem/.38rem no-repeat
 }
 .m-footer .service {
-background:url(../images/iconcontent2.png) center -.11rem/.92rem .9rem no-repeat
+background:url(../images/iconcontent.png) center -.11rem/.92rem .9rem no-repeat
 }
 .layer {
 	position:fixed;
