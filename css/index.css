@@ -533,10 +533,10 @@ font-size:.3rem
 background:url(../images/home.png) center .13rem/.48rem .42rem no-repeat
 }
 .m-footer .tel {
-background:url(../images/iconTel.svg) center .13rem/.38rem no-repeat
+background:url(../images/icontel.svg) center .13rem/.38rem no-repeat
 }
 .m-footer .service {
-background:url(../images/iconContent.png) center -.11rem/.92rem .9rem no-repeat
+background:url(../images/iconcontent.png) center -.11rem/.92rem .9rem no-repeat
 }
 .layer {
 	position:fixed;
